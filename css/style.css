@@ -1,0 +1,23 @@
+.container{
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+}
+.container2{
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+}
+.elements{
+    display: flex;
+    flex-wrap: wrap;
+}
+.elements .element{
+    width: 32.3%;
+}
+.elements .ele{
+    margin-right: 1.5%;
+}
+.div1{
+    display: flex;
+}
