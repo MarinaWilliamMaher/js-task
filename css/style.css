@@ -1,23 +1,26 @@
-.container{
-    width: 70%;
-    margin: auto;
-    margin-top: 50px;
+.container {
+  width: 80%;
+  margin: auto;
+  margin-top: 50px;
 }
-.container2{
-    width: 70%;
-    margin: auto;
-    margin-top: 50px;
+.container2 {
+  width: 80%;
+  margin: auto;
+  margin-top: 50px;
 }
-.elements{
-    display: flex;
-    flex-wrap: wrap;
+.elements {
+  display: flex;
+  flex-wrap: wrap;
 }
-.elements .element{
-    width: 32.3%;
+.elements .element {
+  width: 24.25%;
 }
-.elements .ele{
-    margin-right: 1.5%;
+.elements .element img {
+  height: 300px;
 }
-.div1{
-    display: flex;
+.elements .ele {
+  margin-right: 1%;
+}
+.div1 {
+  display: flex;
 }
